@@ -1,0 +1,32 @@
+/* ---------- General -----*/
+
+html,
+body{
+    background-color: rgb(33,37,41);
+    color: rgb(255, 255, 255);
+    height: 100%;
+}
+
+
+/* --------- Typographie -------*/
+
+
+/* ---------- Structure -------*/
+
+/* ---------- Header ----------*/
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* ---------- Main ---------*/
+main{
+    height: 100%;
+}
+/* ---------- Footer ----------*/
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* ---------- Media -----------*/
